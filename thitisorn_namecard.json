@@ -2,17 +2,15 @@
   "name" : "Thitisorn Veerapongporn, College Student",
   "title" : "Internet Programming Testing from GitHub 2",
   "phone" : "+66 094 364 9451",
-  "email" : "yewkungzaza@hotmail.com"
-}
-{
-  "name" : "Chisanupong Phetruen, College Student",
-  "title" : "Data science and Technology",
-  "phone" : "+66 000 000 001",
-  "email" : "chisanupong.p@ku.th"
-}
-{
-  "name" : "Chanatip Preamjai, College Student",
-  "title" : "Data science and Technology",
-  "phone" : "+66 000 000 002",
-  "email" : "chanatip.p@ku.th"
+  "email" : "yewkungzaza@hotmail.com",
+
+  "name2" : "Chisanupong Phetruen, College Student",
+  "title2" : "Data science and Technology",
+  "phone2" : "+66 000 000 001",
+  "email2" : "chisanupong.p@ku.th",
+
+  "name3" : "Chanatip Preamjai, College Student",
+  "title3" : "Data science and Technology",
+  "phone3" : "+66 000 000 002",
+  "email3" : "chanatip.p@ku.th"
 }
